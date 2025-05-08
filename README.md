@@ -42,7 +42,8 @@ This repository contains documentation and learning outcomes from my journey thr
 <br>
 
 ### Circle 0
-- **Libft**: Create your own C library with basic functions <a href="./libft.md"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1683680980/noticon/ofgymrzrsku11otwlv6a.gif" width="40" height="40"></a>
+- **Libft**: Create your own C library with basic functions <a href="https://github.com/cheringring/42_Course/blob/main/Libft.md"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1683680980/noticon/ofgymrzrsku11otwlv6a.gif" width="50" height="50"></a>
+  - Implementation of essential C functions
   - Implementation of essential C functions
   - String manipulation, memory management, linked lists
 
