@@ -108,15 +108,12 @@ This repository contains documentation and learning outcomes from my journey thr
 
 ## 📝 Project Status
 
-- Currently working on Circle [Your Current Circle]
-- Completed projects are marked with documentation
+- Currently working on Circle 0 
+- Complete Libft
 
 <br><br>
 
 ## 🌟 Achievement Highlights
 
-- [Add your personal achievements and highlights]
-- [Add interesting challenges you've overcome]
-- [Add any special recognition received]
-
+- ??? 
 
