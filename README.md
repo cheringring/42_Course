@@ -42,7 +42,7 @@ This repository contains documentation and learning outcomes from my journey thr
 <br>
 
 ### Circle 0
-- **Libft**: Create your own C library with basic functions [📝](./libft.md)
+- **Libft**: Create your own C library with basic functions [![Libft](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1683680980/noticon/ofgymrzrsku11otwlv6a.gif)](./libft.md)
   - Implementation of essential C functions
   - String manipulation, memory management, linked lists
 
