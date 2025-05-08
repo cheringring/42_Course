@@ -28,53 +28,63 @@
 > ⚠️ **Note**: Due to 42's academic honor code, the actual source code cannot be shared publicly. This repository serves as a documentation of my journey through the 42 curriculum.
 
 <br><br>
+
 ## 🎯 Project Overview
 
 This repository contains documentation and learning outcomes from my journey through the 42 curriculum. While the actual code cannot be shared due to the school's academic policy, I'll share my experiences and insights gained from each project.
 
 <br><br>
+
 ## 🛠️ Common Core Projects
 
 <br>
+
 ### Circle 0
 - **Libft**: Create your own C library with basic functions [📝](./libft.md)
   - Implementation of essential C functions
   - String manipulation, memory management, linked lists
 
 <br>
+
 ### Circle 1
 - **get_next_line**: Function that reads a file line by line
 - **ft_printf**: Recreate the printf function
 - **Born2beroot**: System administration project using Virtual Machine
 
 <br>
+
 ### Circle 2
 - **push_swap**: Sorting algorithm project with limited operations
 - **minitalk**: Small data exchange program using UNIX signals
 - **so_long**: Small 2D game using a graphics library
 
 <br>
+
 ### Circle 3
 - **minishell**: Create a simple shell (similar to bash)
 - **Philosophers**: Thread synchronization problem solving
 
 <br>
+
 ### Circle 4
 - **NetPractice**: Network configuration and IP addressing
 - **cub3d** or **miniRT**: Ray-casting or Ray-tracing project
 - **CPP Modules (00-04)**: Introduction to C++ programming
 
 <br>
+
 ### Circle 5
 - **CPP Modules (05-09)**: Advanced C++ concepts
 - **ft_containers**: Recreate C++ STL containers
 - **Inception**: System administration with Docker
 
 <br>
+
 ### Circle 6
 - **ft_transcendence**: Full-stack web project with real-time multiplayer game
 
 <br>
+
 ## 💡 Skills Developed
 
 - Advanced C Programming
@@ -89,12 +99,14 @@ This repository contains documentation and learning outcomes from my journey thr
 - Team Collaboration
 
 <br><br>
+
 ## 📝 Project Status
 
 - Currently working on Circle [Your Current Circle]
 - Completed projects are marked with documentation
 
 <br><br>
+
 ## 🌟 Achievement Highlights
 
 - [Add your personal achievements and highlights]
