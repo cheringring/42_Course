@@ -40,6 +40,8 @@ This repository contains documentation and learning outcomes from my journey thr
 ## 🛠️ Common Core Projects
 
 <br>
+<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1683680980/noticon/ofgymrzrsku11otwlv6a.gif" width="50" height="50"></a> = Complete ! 
+<br>
 
 ### Circle 0
 - **Libft**: Create your own C library with basic functions <a href="https://github.com/cheringring/42_Course/blob/main/Libft.md"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1683680980/noticon/ofgymrzrsku11otwlv6a.gif" width="50" height="50"></a>
