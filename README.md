@@ -1,4 +1,4 @@
-# 42 Course Projects 📚
+# 42 Cursus Projects 📚
 
 <br>
 
